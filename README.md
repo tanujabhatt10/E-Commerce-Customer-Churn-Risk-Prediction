@@ -49,4 +49,4 @@ This project demonstrates the application of machine learning in understanding c
 
 Preview
 
-[Project Screenshot]  (matrix.png)
+[Project Screenshot](matrix.png)
