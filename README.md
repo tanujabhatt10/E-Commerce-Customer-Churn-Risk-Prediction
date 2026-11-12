@@ -46,3 +46,6 @@ Key Outcomes
 Conclusion
 
 This project demonstrates the application of machine learning in understanding customer behavior and predicting churn risk. The insights can help e-commerce businesses improve customer retention strategies.
+
+Preview
+![Project Screenshot]  (matrix.png)
